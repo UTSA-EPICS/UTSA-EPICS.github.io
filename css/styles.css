@@ -49,8 +49,8 @@ img {
 
 .fade-carousel .carousel-indicators > li {
   margin: 0 2px;
-  background-color: #f39c12;
-  border-color: #f39c12;
+  background-color: #f34e12;
+  border-color: #f35912ed;
   opacity: .7;
   border-radius: 0;
   width: 20px;
@@ -116,13 +116,13 @@ img {
 
 .btn.btn-hero, .btn.btn-hero:hover, .btn.btn-hero:focus {
   color: #f5f5f5;
-  background-color: #DB8B0F;
-  border-color: #DB8B0F;
+  background-color: #c54c14;
+  border-color: #e45508;
   outline: none;
   padding: 12px 32px;
   margin: 20px auto;
   border-radius: 0px;
-  border-bottom: 4px solid #FF9C00;
+  border-bottom: 4px solid #ff6a00;
 }
 /********************************/
 /*            Overlay           */
@@ -132,7 +132,7 @@ img {
   width: 100%;
   height: 100%;
   z-index: 2;
-  background-color: #080d15;
+  background-color: #0450cb;
   opacity: .7;
 }
  
@@ -172,7 +172,7 @@ img {
 /* Control buttons  */
 #quote-carousel .carousel-control {
   background: none;
-  color: #222;
+  color: #1638cf;
   font-size: 2.3em;
   text-shadow: none;
   margin-top: 30px;
@@ -194,11 +194,11 @@ img {
 }
 /* Changes the color of the indicators */
 #quote-carousel .carousel-indicators li {
-  background: #FFFFFF;
+  background: #0a4d9e;
 }
 
 #quote-carousel .carousel-indicators .active {
-  background: #F39C12;
+  background: #f36812;
 }
 
 #quote-carousel img {
@@ -231,12 +231,12 @@ img {
   background: #F0F0F0;
   border-bottom: 10px solid #E2E2E2;
   border-radius: 0 0 15px 15px;
-  border-top: 1px solid #F39C12;
+  border-top: 1px solid #f35d12;
 }
 
 .box-area-icon i {
   font-size: 40px;
-  color: #F39C12;
+  color: #f35d12;
 }
 
 .news-events-box {
@@ -311,7 +311,7 @@ img {
 
 .nav>li>a:hover, .nav>li>a:focus {
   text-decoration: none;
-  background-color: rgb(205, 128, 5);
+  background-color: rgb(220, 104, 8);
   color: #FFFFFF;
 }
 
@@ -403,11 +403,11 @@ img {
   -moz-transition: all .5s;
   -webkit-transition: all .5s;
   transition: all .5s;
-  background: #F39C12;
+  background: #f37012;
 }
 
 .isFixed {
-  background: #F39C12;
+  background: #f37712;
   -o-transition: all .5s;
   -ms-transition: all .5s;
   -moz-transition: all .5s;
@@ -437,7 +437,7 @@ header {
 .heading h2 {
   font-weight: 700;
   font-size: 35px;
-  color: #F39C12;
+  color: #f37312;
   margin: 0;
   padding: 5px;
   text-transform: capitalize;
@@ -514,7 +514,7 @@ img#site-title {
 .grid figcaption {
   background: #300F00;
   padding: 12px 18px;
-  border-top: #F39C12 solid 1px;
+  border-top: #f36c12 solid 1px;
 }
 /* Slideshow style */
 .slideshow {
@@ -728,7 +728,7 @@ textarea.contact {
 }
 
 .contact.submit {
-  background: #F39C12;
+  background: #e97a0a;
   font-family: 'Montserrat',sans-serif;
   color: #1A1A1A;
   font-size: 16px;
@@ -742,7 +742,7 @@ textarea.contact {
 }
 
 .contact.submit:hover {
-  background: #FAAB2D;
+  background: #fa8d2d;
 }
 
 .done {
@@ -833,7 +833,7 @@ textarea.contact {
 }
 
 .gototop i {
-  color: #F39C12;
+  color: #f37f12;
   line-height: 40px;
 }
 
@@ -1005,7 +1005,7 @@ blockquote footer, blockquote small, blockquote .small {
 @media screen and (max-width:768px) {
  
   #main-nav {
-    background: #F39C12;
+    background: #f37712;
   }
 
   .navbar-nav>li {
@@ -1025,7 +1025,7 @@ blockquote footer, blockquote small, blockquote .small {
 
 @media (max-width: 655px) {
   .collapse {
-    background: #F39C12;
+    background: #f37f12;
   }
 
   .navbar.navbar-inverse.navbar-static-top a {
