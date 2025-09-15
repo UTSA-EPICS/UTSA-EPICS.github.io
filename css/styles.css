@@ -138,8 +138,17 @@ img {
   width: 100%;
   height: 100%;
   z-index: 2;
-  background-color: #0450cb;
-  opacity: .7;
+  background-color: #9fa5ff;
+  opacity: .3;
+}
+
+.overlay-projects {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  z-index: 2;
+  background-color: #9fa5ff;
+  opacity: 0.5;
 }
  
 
@@ -156,11 +165,11 @@ img {
 }
 
 .fade-carousel .slides .slide-1 {
-  background-image: url('../img/slide1.jpg');
+  background-image: url('../img/backgrounds/purple-bg.jpeg');
 }
 
 .fade-carousel .slides .slide-2 {
-  background-image: url('../img/slide2.jpg');
+  background-image: url('../img/backgrounds/abstactTech.jpeg');
 }
 
 .fade-carousel .slides .slide-3 {
