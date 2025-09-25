@@ -31,7 +31,7 @@ h3 {
 }
 
 a,a:hover {
-  color: #cc580c;
+  color: #ef3f00;
   text-decoration: none;
 }
 
@@ -55,8 +55,8 @@ img {
 
 .fade-carousel .carousel-indicators > li {
   margin: 0 2px;
-  background-color: #f34e12;
-  border-color: #f35912ed;
+  background-color: #ef3f00;
+  border-color: #ef3f00;
   opacity: .7;
   border-radius: 0;
   width: 20px;
@@ -122,13 +122,13 @@ img {
 
 .btn.btn-hero, .btn.btn-hero:hover, .btn.btn-hero:focus {
   color: #f5f5f5;
-  background-color: #c54c14;
-  border-color: #e45508;
+  background-color: #ef3f00;
+  border-color: #ef3f00;
   outline: none;
   padding: 12px 32px;
   margin: 20px auto;
   border-radius: 0px;
-  border-bottom: 4px solid #ff6a00;
+  border-bottom: 4px solid #ef3f00;
 }
 /********************************/
 /*            Overlay           */
@@ -213,7 +213,7 @@ img {
 }
 
 #quote-carousel .carousel-indicators .active {
-  background: #f36812;
+  background: #ef3f00;
 }
 
 #quote-carousel img {
@@ -246,12 +246,12 @@ img {
   background: #F0F0F0;
   border-bottom: 10px solid #E2E2E2;
   border-radius: 0 0 15px 15px;
-  border-top: 1px solid #f35d12;
+  border-top: 1px solid #ef3f00;
 }
 
 .box-area-icon i {
   font-size: 40px;
-  color: #f35d12;
+  color: #ef3f00;
 }
 
 .news-events-box {
@@ -326,7 +326,7 @@ img {
 
 .nav>li>a:hover, .nav>li>a:focus {
   text-decoration: none;
-  background-color: rgb(220, 104, 8);
+  background-color: #ef3f00;
   color: #FFFFFF;
 }
 
@@ -391,7 +391,7 @@ img {
 
 #main-nav ul.nav>li.active>a {
   color: #fff;
-  background-color: rgb(205, 128, 5);
+  background-color: #ef3f00;
 }
 
 .hideClass {
@@ -399,12 +399,12 @@ img {
 }
 
 .isFixed .navbar-inverse .navbar-nav>.active>a,.isFixed .navbar-inverse .navbar-nav>.active>a:focus {
-  background: #cc580c;
+  background: #ef3f00;
   color: #fff;
 }
 
 .isFixed .navbar.navbar-inverse.navbar-static-top a:hover {
-  background: #cc580c;
+  background: #ef3f00;
   color: #fff;
 }
 
@@ -418,11 +418,11 @@ img {
   -moz-transition: all .5s;
   -webkit-transition: all .5s;
   transition: all .5s;
-  background: #f37012;
+  background: #ef3f00;
 }
 
 .isFixed {
-  background: #f37712;
+  background: #ef3f00;
   -o-transition: all .5s;
   -ms-transition: all .5s;
   -moz-transition: all .5s;
@@ -452,7 +452,7 @@ header {
 .heading h2 {
   font-weight: 700;
   font-size: 35px;
-  color: #f37312;
+  color: #ef3f00;
   margin: 0;
   padding: 5px;
   text-transform: capitalize;
@@ -529,7 +529,7 @@ img#site-title {
 .grid figcaption {
   background: #300F00;
   padding: 12px 18px;
-  border-top: #f36c12 solid 1px;
+  border-top: #ef3f00 solid 1px;
 }
 /* Slideshow style */
 .slideshow {
@@ -743,7 +743,7 @@ textarea.contact {
 }
 
 .contact.submit {
-  background: #e97a0a;
+  background: #ef3f00;
   font-family: 'Montserrat',sans-serif;
   color: #1A1A1A;
   font-size: 16px;
@@ -757,7 +757,7 @@ textarea.contact {
 }
 
 .contact.submit:hover {
-  background: #fa8d2d;
+  background: #ef3f00;
 }
 
 .done {
@@ -848,7 +848,7 @@ textarea.contact {
 }
 
 .gototop i {
-  color: #f37f12;
+  color: #ef3f00;
   line-height: 40px;
 }
 
@@ -872,12 +872,12 @@ blockquote:before {
   position: absolute;
   left: 10px;
   top: -30px;
-  color: #cc580c;
+  color: #ef3f00;
   font-family: Georgia;
 }
 
 blockquote cite {
-  color: #cc580c;
+  color: #ef3f00;
   font-size: 14px;
   display: block;
   margin-top: 5px;
@@ -1020,7 +1020,7 @@ blockquote footer, blockquote small, blockquote .small {
 @media screen and (max-width:768px) {
  
   #main-nav {
-    background: #f37712;
+    background: #ef3f00;
   }
 
   .navbar-nav>li {
